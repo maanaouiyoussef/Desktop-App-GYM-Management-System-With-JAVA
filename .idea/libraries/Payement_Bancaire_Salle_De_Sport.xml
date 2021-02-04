@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Payement_Bancaire_Salle_De_Sport">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Payement_Bancaire_Salle_De_Sport.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
